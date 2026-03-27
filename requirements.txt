@@ -8,3 +8,5 @@ alembic
 passlib[bcrypt]
 python-jose
 email-validator
+pwdlib[argon2]
+pyjwt
